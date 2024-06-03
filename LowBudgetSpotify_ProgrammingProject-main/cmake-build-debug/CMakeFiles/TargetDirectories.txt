@@ -1,0 +1,3 @@
+C:/Users/cioar/Desktop/proiect C++ dennis/LowBudgetSpotify_ProgrammingProject-main/cmake-build-debug/CMakeFiles/LowBudgetSpotify.dir
+C:/Users/cioar/Desktop/proiect C++ dennis/LowBudgetSpotify_ProgrammingProject-main/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cioar/Desktop/proiect C++ dennis/LowBudgetSpotify_ProgrammingProject-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
